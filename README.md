@@ -1,8 +1,8 @@
 Nicolas Garavtito-Camargo's CV
 ==
-(https://jngaravitoc.github.io/Garavito-Camargo/)[https://jngaravitoc.github.io/Garavito-Camargo/]
-You can read my (CV as pdf)[https://github.com/jngaravitoc/CV/blob/master/CV.pdf]. And access my publications (through 
-ADS)[https://ui.adsabs.harvard.edu/public-libraries/0X5_bcuLT4iE-6-Nko0kmg].
+[https://jngaravitoc.github.io/Garavito-Camargo/](https://jngaravitoc.github.io/Garavito-Camargo/)
+You can read my [CV as pdf](https://github.com/jngaravitoc/CV/blob/master/CV.pdf). And access my publications [through 
+ADS](https://ui.adsabs.harvard.edu/public-libraries/0X5_bcuLT4iE-6-Nko0kmg).
 
 Barbara Pichardo Future Faculty Fellow, University of Arizona.
 
