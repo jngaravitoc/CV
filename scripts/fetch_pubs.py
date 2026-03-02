@@ -16,7 +16,7 @@ from urllib.parse import urlencode
 from datetime import datetime
 
 # ── ADS API configuration ────────────────────────────────────────────────
-ADS_TOKEN = "vD4KKH0ZCkqFfKFkMJ9G5RlEzrw6lbg7EkU5bGOX"
+ADS_TOKEN = os.environ.get("ADS_TOKEN", "vD4KKH0ZCkqFfKFkMJ9G5RlEzrw6lbg7EkU5bGOX")
 ADS_SEARCH_URL = "https://api.adsabs.harvard.edu/v1/search/query"
 HEADERS = {"Authorization": f"Bearer {ADS_TOKEN}"}
 
