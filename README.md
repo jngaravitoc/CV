@@ -5,16 +5,17 @@ Nicolas Garavito-Camargo's CV
 You can read my [CV as pdf](https://github.com/jngaravitoc/CV/blob/master/CV.pdf). And access my publications [through 
 ADS](https://ui.adsabs.harvard.edu/public-libraries/0X5_bcuLT4iE-6-Nko0kmg).
 
-Barbara Pichardo Future Faculty Fellow, University of Arizona.
+NFHP Einstein Fellow, University of Maryland.
 
-## Education:
+## Appointments
 
- - PhD 2021, Steward Observatory, University of Arizona. Advisor: Gurtina Besla
- - MSc 2015, Universidad de los Andes, Colombia. Advisor: Jaime Forero-Romero
- - BSc 2013, Department of Physics, Universidad Nacional de Colombia. Advisor: 
+- NFHP Einstein Fellow, University of Maryland, September 2025 – August 2028.
 
-## Positions:
+## Education and Past Positions
 
-- Barbara Pichardo Future Faculty Fellow, 2025–present.
-- Flatiron Research Fellow, 2021–2024.
+- Barbara Pichardo Future Faculty Fellow, University of Arizona, February 2025 – August 2025.
+- Flatiron Research Fellow, Flatiron Institute, October 2021 – December 2024.
+- **Ph.D.,** Astronomy and Astrophysics, University of Arizona, 2021. Advisor: Gurtina Besla.
+- **M.Sc.,** Physics, Universidad de Los Andes, Bogotá, Colombia, 2015. Advisor: Jaime E. Forero-Romero.
+- **B.Sc.,** Physics, Universidad Nacional de Colombia, Bogotá, Colombia, 2013. Advisor: Rigoberto A. Casas Miranda.
 
