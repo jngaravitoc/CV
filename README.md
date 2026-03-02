@@ -7,6 +7,10 @@ ADS](https://ui.adsabs.harvard.edu/public-libraries/0X5_bcuLT4iE-6-Nko0kmg).
 
 NFHP Einstein Fellow, University of Maryland.
 
+## Research Interests
+
+Galactic Dynamics – Astrophysical Probes of Dark Matter – Computational Methods – High-Performance Computing – N-body Simulations – Software Development
+
 ## Appointments
 
 - NFHP Einstein Fellow, University of Maryland, September 2025 – August 2028.
