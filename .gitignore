@@ -1,0 +1,14 @@
+# Build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+texput.log
+__pycache__/
+
+# Archived CVs
+old/
+
+# Logs from update scripts
+update_cv.log
+update_pubs.log
